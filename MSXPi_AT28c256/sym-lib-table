@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "MSXPi1-rescue")(type "Legacy")(uri "${KIPRJMOD}/MSXPi1-rescue.lib")(options "")(descr ""))
-)
