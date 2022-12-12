@@ -4396,7 +4396,7 @@
 
   (footprint "Package_DIP:DIP-8_W7.62mm" (layer "F.Cu")
     (tedit 5A02E8C5) (tstamp 705d5144-ed55-4d0f-a804-236bb444852c)
-    (at 60.0556 102.0164)
+    (at 93.7 101.2)
     (descr "8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (property "Sheetfile" "CP 400 COLOR.kicad_sch")
@@ -8063,7 +8063,7 @@
 
   (footprint "Package_DIP:DIP-8-N7_W7.62mm" (layer "F.Cu")
     (tedit 5A02E8C5) (tstamp d8e3eef3-a659-4408-b0d4-e9d13af3d0a6)
-    (at 93.7868 101.0258)
+    (at 60 101.2)
     (descr "8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), missing pin 7")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (property "Sheetfile" "CP 400 COLOR.kicad_sch")
