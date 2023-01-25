@@ -1,0 +1,21 @@
+Ceramic Capacitors
+------------------
+C39 - 220 (Ceramic)
+C40 - 220 (Ceramic)
+ 
+Electrolitic Capacitors
+-----------------------
+ 
+Resistors
+----------
+R??	- 10K (BROWN BLACK ORANGE)
+R??	- 4.7K (YELLOW VIOLET READ) 
+R35	- 100K (BROWN BLACK YELLOW) 
+R34	- 1.5K (BROWN GREEN RED) 
+
+
+Diodes
+------
+D15 - 1N4148
+D16 - 1N4148
+D17 - 1N4148
